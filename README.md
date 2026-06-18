@@ -167,5 +167,3 @@ A aba `_config_graficos` controla todo o comportamento da automação.
 **Fábio Oliveira**
 
 Ciências Contábeis – FIPECAFI
-
-Google Apps Script • Automação • Dados • Processos
