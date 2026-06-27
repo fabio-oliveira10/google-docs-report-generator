@@ -4,7 +4,6 @@ Automação desenvolvida em Google Apps Script para gerar relatórios automatica
 
 A solução utiliza uma planilha de configuração para identificar quais informações devem ser exportadas e substitui placeholders em um documento Google Docs, eliminando atividades manuais de copiar e colar gráficos e indicadores.
 
----
 
 ## Visão Geral
 
@@ -20,7 +19,6 @@ Através de uma aba de configuração, é possível definir:
 
 Durante a execução, o sistema verifica se os dados estão disponíveis e atualiza automaticamente o documento final.
 
----
 
 ## Problema Resolvido
 
@@ -35,7 +33,6 @@ Em processos de acompanhamento e reporting é comum:
 
 A automação elimina essas etapas, reduzindo erros operacionais e tempo de execução.
 
----
 
 ## Funcionalidades
 
@@ -76,7 +73,6 @@ Exemplo:
 
 Sem necessidade de alterar o código.
 
----
 
 ## Fluxo da Aplicação
 
@@ -102,7 +98,6 @@ Substituição de Placeholders
 Google Docs Atualizado
 ```
 
----
 
 ## Tecnologias Utilizadas
 
@@ -114,7 +109,6 @@ Google Docs Atualizado
 | Google Drive | Armazenamento |
 | JavaScript | Regras de negócio |
 
----
 
 ## Estrutura da Configuração
 
@@ -130,7 +124,6 @@ A aba `_config_graficos` controla todo o comportamento da automação.
 | tamanho | largura da imagem |
 | ativo | status calculado automaticamente |
 
----
 
 ## Diferenciais
 
@@ -141,7 +134,6 @@ A aba `_config_graficos` controla todo o comportamento da automação.
 - Tratamento de erros
 - Estrutura reutilizável para diferentes relatórios
 
----
 
 ## Possíveis Evoluções
 
@@ -151,7 +143,6 @@ A aba `_config_graficos` controla todo o comportamento da automação.
 - [ ] Histórico de execuções
 - [ ] Dashboard de monitoramento
 
----
 
 ## Exemplo de Uso
 
@@ -160,7 +151,6 @@ A aba `_config_graficos` controla todo o comportamento da automação.
 3. Executar a automação
 4. Gerar o relatório atualizado automaticamente
 
----
 
 ## Autor
 
